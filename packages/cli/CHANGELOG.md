@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.38.0
+
+### Patch Changes
+
+- Updated dependencies [74c993a91e]
+  - @logto/core-kit@2.8.0
+  - @logto/schemas@1.38.0
+
 ## 1.37.1
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.12.3
+
+### Patch Changes
+
+- Updated dependencies [74c993a91e]
+  - @logto/core-kit@2.8.0
+
 ## 1.12.2
 
 ### Patch Changes
